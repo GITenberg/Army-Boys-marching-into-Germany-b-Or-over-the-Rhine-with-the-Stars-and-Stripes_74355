@@ -1,0 +1,29 @@
+_repo: Army-Boys-marching-into-Germany-b-Or-over-the-Rhine-with-the-Stars-and-Stripes_74355
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Randall, Homer
+    gutenberg_agent_id: '1970'
+    url: http://www.gutenberg.org/2009/agents/1970
+description: ''
+gutenberg_issued: '2024-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74355'
+language: en
+pgterms:marc904: https://archive.org/details/armyboysmarching00rand
+pgterms:marc905: 20221127155440randall
+pgterms:marc906: '1919'
+pgterms:marc907: us
+production_note: Aaron Adrignola, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bGeorge Sully & Company, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Army Boys marching into Germany : $b Or over the Rhine with the Stars and
+  Stripes'
+url: http://www.gutenberg.org/ebooks/74355
